@@ -2,4 +2,4 @@
 Изменение 1
 change 2 locol
 Finish Exemple GA_Seminar1
-
+Продолжаем семинар 2
