@@ -1,6 +1,4 @@
 Семинар 1
 Изменение 1
-<<<<<<< HEAD
 change 2 locol
-Finish Exemple GA_Seminar1
-
+Изменение 2
